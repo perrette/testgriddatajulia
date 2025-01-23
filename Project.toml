@@ -1,0 +1,14 @@
+name = "Griddata"
+uuid = "b8ee69ef-a20a-4d38-bceb-a68d72817f63"
+
+[deps]
+CairoMakie = "13f3f980-e62b-5c42-98c6-ff1f3baf88f0"
+DelaunayTriangulation = "927a84f5-c5f4-47a5-9785-b46e178433df"
+NaturalNeighbours = "f16ad982-4edb-46b1-8125-78e5a8b5a9e6"
+Quickhull = "baca2653-9c88-49d2-a488-12dbf25fc4fb"
+
+[compat]
+CairoMakie = "0.12.18"
+DelaunayTriangulation = "1.6.4"
+NaturalNeighbours = "1.3.6"
+Quickhull = "0.2.0"
